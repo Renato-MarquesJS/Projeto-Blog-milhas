@@ -1,0 +1,29 @@
+body {
+    background: #10002c ;
+    font: 16px Arial, helvetica, sans-serif;
+    
+    
+}
+
+.Cabeçalho {
+    color: #B606AE;
+
+}
+
+#principal {
+    border: 1px solid #B606AE;
+    width: 1130px;
+    height: 670px;
+}
+
+#menu {
+    background: #0c1c48 ;
+    border: 1px solid;
+}
+
+#rodape {
+    background-color: #10002C#0400ff;
+}
+
+
+
