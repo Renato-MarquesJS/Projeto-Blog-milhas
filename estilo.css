@@ -2,7 +2,12 @@ body {
     background: #10002c ;
     font: 16px Arial, helvetica, sans-serif;
     
-    
+}
+
+a {
+    color: aliceblue;
+    text-decoration: none;
+    padding: 5px;
 }
 
 .Cabeçalho {
@@ -10,15 +15,24 @@ body {
 
 }
 
+.branco {
+    color: azure;
+}
+
 #principal {
-    border: 1px solid #B606AE;
-    width: 1130px;
-    height: 670px;
+    
+    width: 1135px;
+    
 }
 
 #menu {
     background: #0c1c48 ;
-    border: 1px solid;
+    padding: 20px;
+}
+
+#conteudo {
+    color: aliceblue;
+    padding: 20px;
 }
 
 #rodape {
