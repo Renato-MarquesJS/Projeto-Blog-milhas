@@ -15,6 +15,11 @@ a {
 
 }
 
+.centralizar{
+    color: aliceblue;
+    text-align: center;
+}
+
 .branco {
     color: azure;
 }
@@ -31,12 +36,13 @@ a {
 }
 
 #conteudo {
+    border: 5px #0c1c48 solid;
     color: aliceblue;
     padding: 20px;
 }
 
 #rodape {
-    background-color: #10002C#0400ff;
+    background-color: #e9e9e9#0400ff;
 }
 
 
